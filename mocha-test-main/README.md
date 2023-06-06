@@ -1,4 +1,12 @@
 # mocha-test
+
+
+
+Este teste foi realizado utilizando como referência o tutorial da Ania Kubow (https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)  or [Twitter](https://www.twitter.com/ania_kubow). 
+
+
+### 
+
 Boilerplate for Mocha tests
 
 This repository is in support of my YouTube tutorial on writing tests in Mocha and Chai for your JavaScript projects. Watch the full video [here](https://youtu.be/Rumf96j0cR0).
